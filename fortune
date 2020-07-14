@@ -1,0 +1,8 @@
+#! /bin/bash
+cd /root/rdpi
+printf "### Today's fortune\n\`\`\`\n" > README.md
+fortune | cowsay >> README.md
+printf "\`\`\`\n" >> README.md
+git add README.md
+git commit -m "new fortune"
+git push
