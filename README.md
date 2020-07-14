@@ -1,3 +1,5 @@
+### Today's fortune
+
 ```
  ________________________________________ 
 / A morsel of genuine history is a thing \
