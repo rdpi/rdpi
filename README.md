@@ -1,16 +1,17 @@
 ### Today's fortune
-
 ```
- ________________________________________ 
-/ A morsel of genuine history is a thing \
-| so rare as to be always valuable.      |
-|                                        |
-\ -- Thomas Jefferson                    /
- ---------------------------------------- 
+ _______________________________________
+/ Training is everything. The peach was \
+| once a bitter almond; cauliflower is  |
+| nothing but cabbage with a college    |
+| education.                            |
+|                                       |
+| -- Mark Twain, "Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
 ```
