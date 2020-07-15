@@ -1,9 +1,9 @@
 ### Today's fortune
 ```
- _______________________________________
-/ Excellent day for putting Slinkies on \
-\ an escalator.                         /
- ---------------------------------------
+ ____________________________________
+/ You have many friends and very few \
+\ living enemies.                    /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
